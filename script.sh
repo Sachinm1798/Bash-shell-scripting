@@ -1,6 +1,6 @@
 #!/bin/bash/
 date
-who 
-whoami
-netstat
+time
+echo "This is date and time command executed"
+
 
